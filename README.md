@@ -8,4 +8,4 @@ Welcome to my professional portfolio! This site showcases my work as a **Junior 
 * **HTML5 & JavaScript**
 * **CSS3 / Bootstrap 5**
 * **Template:** Adapted and customized from [Start Bootstrap Personal](https://startbootstrap.com/theme/personal)
-* **Contact Form:** Integrated with [Formspree](https://formspree.io/
+* **Contact Form:** Integrated with [Formspree](https://formspree.io/).
